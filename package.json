@@ -1,0 +1,27 @@
+{
+  "name": "verbit-home-assignment",
+  "version": "1.0.0",
+  "description": "verbit-home-assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariand93/verbit-home-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariand93/verbit-home-assignment/issues"
+  },
+  "homepage": "https://github.com/mariand93/verbit-home-assignment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.1",
+    "playwright": "^1.51.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
