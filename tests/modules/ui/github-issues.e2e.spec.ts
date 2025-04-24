@@ -6,7 +6,7 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-test.describe('GitHub Issue Tests', () => {
+test.describe('GitHub Issue UI Tests', () => {
   let repoOwner: string;
   let repoName: string;
 
