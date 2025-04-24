@@ -1,5 +1,5 @@
 export const config = {
-    apiBaseUrl: 'https://api.github.com/repos/microsoft/vscode/issues',
-    uiBaseUrl: 'https://github.com/microsoft/vscode',
+    apiBaseUrl: 'https://github.com/mariand93/demo-repo/issues',
+    uiBaseUrl: 'https://github.com/mariand93/demo-repo',
   };
   

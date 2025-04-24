@@ -14,6 +14,6 @@
         "@utils/*": ["utils/*"]
       }
     },
-    "include": ["src", "tests", "utils", "playwright.config.ts"]
+    "include": ["src", "tests/**/**/*.ts", "utils", "playwright.config.ts"]
   }
   
